@@ -8,3 +8,5 @@ JAVACRIPT : https://web.digitalinnovation.one/
 
 ##05/03/2022
 Reorganizando todo o site.
+##05/03/2022
+Deixando o site mais limpo e objetivo

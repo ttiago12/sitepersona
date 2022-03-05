@@ -3,44 +3,30 @@
 <html lang="pt-BR">
 <html>
 	<head>
-
 		<meta charset="UTF-8">
 		<title>Html  Primeiro layout</title>
 		<script type="text/javascript" src= "js/scrpit.js"></script>
 		<link rel="stylesheet" type="text/css" href="estilos/estilos.css">
 		<link href="https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap" rel="stylesheet">
-		
 		<br>							
 	</head>
 	
 	<body>
+	<p style="background-color: #0e0950" id = "mousemove" onmouseover ="trocar(this)" onmouseout="voltar(this)">EM MANUTENÇÃO </p> 
+	<p style="background-color: #f0fff0" id = "mousemove" onmouseover ="trocar(this)" onmouseout="voltar(this)">EM MANUTENÇÃO </p> 
 		
-		<p style="background-color: #0e0950" id = "mousemove" onmouseover ="trocar(this)" onmouseout="voltar(this)">EM MANUTENÇÃO </p> 
-		<p style="background-color: #f0fff0" id = "mousemove" onmouseover ="trocar(this)" onmouseout="voltar(this)">EM MANUTENÇÃO </p> 
-			
-		<div class="container ">
-			<header>
-				 <div class="img-wrapper ">
-					<img src="imgs/bg.jpg " alt=" ">
-					<p id = "agradecimento" onclick ="redirecionar()"></p>
-				</div>
-		</div>
-		<div class="barra-lateral">
+	<div class="container ">
+			<div class="img-wrapper ">
+				<img src="imgs/bg.jpg " alt=" ">
+				<p id = "agradecimento" onclick ="redirecionar()"></p>
+			</div>
+						
 			<div class="sobre">
-				<h2>seção</h2>
-				<p> Seção </p>
+				<h2>seção-sobe</h2>
+				<p> Seção-sbore </p>
+				<div class="rodape">
+				<p>Tiago</p>				
 			</div>
-		</div>
-
-		
-			<div class="espacamento">
-				<h1>seção</h1>
-			</div>
-		
-		
-		<div class="rodape">
-			<p>Tiago</p>				
-		</div>
-		
+    </div>
 	</body>
 </html>
