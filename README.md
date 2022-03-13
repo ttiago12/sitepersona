@@ -8,5 +8,8 @@ JAVACRIPT : https://web.digitalinnovation.one/
 
 ##05/03/2022
 Reorganizando todo o site.
+
 ##05/03/2022
 Deixando o site mais limpo e objetivo
+
+##13/03/2022 Trazendo o conceito de resposividade para o projeto , seguindo ensinamentos disponiveis no youtube no canal do Joao Carlos Lima e Silva
