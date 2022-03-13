@@ -2,6 +2,7 @@
 
 
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css");
 
 * {
     
@@ -73,7 +74,7 @@ h1 {
 }
 
 h2{
-	color: #ffffff;
+	color: #F2E3D5
     text-align: auto;
 	font-family: 'Ubuntu', sans-serif;
 	text-shadow: 0.2em 0.05em 0.05em rgb(84, 76, 155);
