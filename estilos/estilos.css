@@ -44,7 +44,8 @@ header {
 }
 .sobre{
     
-    
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
 	position: absolute;
 	top: 40%;
     left : 15%;
@@ -86,9 +87,10 @@ h1 {
 h2{
 	color: #F2E3D5;
     text-align: auto;
-	font-family: 'Ubuntu', sans-serif;
 	text-shadow: 0.2em 0.05em 0.05em rgb(84, 76, 155);
-	
+    text-shadow: 0.1em 0.05em 0.05em rgb(221, 108, 47);
+	font-family: 'Lato', sans-serif;
+    font-weight: lighter;
    
 }
 
