@@ -22,7 +22,7 @@ header {
     position: absolute;
 }
 .container{
-	
+	font-family: 'Ubuntu', sans-serif;
 	background-image: url("imgs/bg.jpg") ;
    
 	
@@ -103,15 +103,15 @@ h3 {
 	font-family: 'Ubuntu Mono', monospace;
 	
 
-	-
+	
 
 }
 
 h4{
-	
-	background :  #99a2a2 ;
-    font-family: 'Ubuntu Mono', monospace;;
+	color: rgb(245, 240, 240);
 	margin: auto;
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
 }
 
 
@@ -143,7 +143,13 @@ p{
 }
 
 	
-
+nav{
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
 /*topo direita inferior esquerdo*/
 /*zero nao precisa usar unidade*/
  
