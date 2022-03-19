@@ -9,6 +9,24 @@
     margin: 0px;
     padding: 0px;
 }
+nav{
+    left: 0px;
+    top: 0px;
+    background: #000000;
+    
+}
+
+.ret1 img {
+    position: relative;
+    width: 2450px ;
+    height: 120px;
+    left: 0px;
+    top: 0px;
+    
+}
+
+
+
 body{
 	background-color: #000;
 	
