@@ -39,6 +39,7 @@ color: #FFFFFF;
 .ret1 img {
     position: absolute;
     width: 100%;
+    height: auto;
     left: 0px;
     top: 0px;
     
