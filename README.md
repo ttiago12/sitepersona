@@ -13,3 +13,5 @@ Reorganizando todo o site.
 Deixando o site mais limpo e objetivo
 
 ###### 13/03/2022 Trazendo o conceito de resposividade para o projeto , seguindo ensinamentos disponiveis no youtube no canal do Joao Carlos Lima e Silva
+
+##### 19/03/2022 Inserindo imagem criada no figma
