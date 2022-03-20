@@ -100,22 +100,12 @@ header {
 
 .rodape {
     
-    font-size : 13px;
-    width: 100%;
-    text-align: center;
-	position: absolute;
-	font-family: 'Ubuntu', sans-serif;
-    background-color: #cecece;
-    text-align: center;
-    border: solid 1px Gray;
-    font-size:8pt;
-    font-family: Verdana;
-    font-weight:bold;
-    width:100%;
-    color:Black;
-    position:fixed;
-    bottom:0px;
-    left:0px;
+    position: absolute;
+    width: 333px;
+    height: 100%;
+
+    opacity: 0.2;
+    background: rgba(196, 196, 196, 0.7);
     
 }
 
