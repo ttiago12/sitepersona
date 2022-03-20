@@ -37,6 +37,17 @@ nav h1{
 color: #FFFFFF;
 }
 
+.retV{
+    position: relative;
+	width: 100%;
+	height: 898px;
+	left: 0px;
+	top: 150px;
+
+	background: #D6D6D8;
+
+}
+
 .ret1 img {
     position: absolute;
     width: 100%;
@@ -100,12 +111,13 @@ header {
 
 .rodape {
     
+    text-align: center;
     position: absolute;
-    width: 333px;
-    height: 100%;
-
-    opacity: 0.2;
-    background: rgba(196, 196, 196, 0.7);
+    width: 100%;
+    height: 15px;
+    bottom: 2%;
+    background: #131313;
+    box-shadow: 10px 10px 10px rgba(242, 135, 5, 0.25);
     
 }
 
