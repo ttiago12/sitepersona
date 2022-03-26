@@ -72,9 +72,8 @@ header {
     position: absolute;
 }
 .container{
-	font-family: 'Ubuntu', sans-serif;
-	background-image: url("imgs/bg.jpg") ;
-   
+	display: flex;
+    flex-direction: column;
 	
 }
 .img-wrapper {
