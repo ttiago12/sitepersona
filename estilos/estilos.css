@@ -208,11 +208,11 @@ footer img {
 /*zero nao precisa usar unidade*/
 
 .hab{
-    position: absolute;
+    position: fixed;
     width: 700px;
-    height: 500px;
+    height: 400px;
     left: 322px;
-    top: 193px;
+    top: 20%;
 
     background: #D6D6D8;
 }
