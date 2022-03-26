@@ -191,7 +191,7 @@ p{
 	
 nav{
     
-    
+    max-height: 10px;
     justify-content: space-around;
     align-items: center;
     
