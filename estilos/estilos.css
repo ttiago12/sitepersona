@@ -132,6 +132,7 @@ h1 {
 
 h2{
 	color: #0e0d0d;
+    margin: auto;
     text-align: auto;
 	text-shadow: 0.2em 0.05em 0.05em rgb(84, 76, 155);
     text-shadow: 0.1em 0.05em 0.05em rgb(221, 108, 47);
