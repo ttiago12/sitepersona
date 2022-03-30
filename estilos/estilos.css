@@ -44,22 +44,14 @@ header {
 
 .sobre{
     
-   bottom: 10%;
-    font-family: 'Lato', sans-serif;
-    font-weight: lighter;
-	
-	font-family: 'Ubuntu', sans-serif;
-    line-height:0;
-    border-style: solid;
-    border-color: ;
-    border-width: 0 160px 50px 50px;
-	border-color: #f00 rgb(52, 53, 52) rgb(78, 78, 80) rgb(51, 50, 46);
+  position: absolute;
+    
 }
 
 
 h1 {
     
-    position: relative;
+    
     color: #ffffff;
     font-size: 40px;
     text-align: right;
