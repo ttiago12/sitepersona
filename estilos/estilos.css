@@ -34,12 +34,11 @@ body{
 
 
 
-.ret1 img {
+.cont img {
    
     width: 100%;
     height: auto;
-    
-    opacity: 0.9;
+   
 }
 
 
@@ -47,34 +46,40 @@ body{
 
 header {
     
-    
-    
+      
     
     
 }
 
 .menu-content{
+    
     text-transform: uppercase;
     height: 100%;
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    
     font-size: 1.8rem;
+    
 }
 
 .menu-content .list-itens{
+    left: 1%;
     display: flex;
     list-style: none;
     gap: 20px;
-    
+    position: absolute;
     
 }
 
 .menu-content .list-itens a {
+    
     text-decoration: none;
     color: rgb(0, 0, 0);
     padding: 1.5rem;
+    left: 10%;
     font-size: 30px;
+    height:  10vh;
+    
     
 
 }
@@ -88,7 +93,9 @@ header {
 header img {
    
     width: 100%;
-    left: 5%;
+    height: 100%;
+    object-fit: cover;
+    
    
     
 }
