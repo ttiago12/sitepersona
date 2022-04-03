@@ -48,7 +48,7 @@ body{
 header {
     
     width: 100%;
-    height: 10vh;
+    
     background: #9a9f9f;
     
 }
@@ -67,6 +67,15 @@ header {
     list-style: none;
     gap: 20px;
     position: absolute;
+}
+
+.menu-content .list-itens a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 1.5rem;
+    font-size: 30px;
+    
+
 }
 
 
