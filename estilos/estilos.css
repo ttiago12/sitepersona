@@ -66,19 +66,22 @@ header {
 
 .menu-content .list-itens{
    
+    justify-content: center;
     display: flex;
     list-style: none;
-    position: fixed;
+    position:absolute;
+    height: 50px;
+    width: 100vh;
     
 }
 
 .menu-content .list-itens a {
     
-    align-items: center;
+    display: flex;
     text-decoration: none;
     color: rgb(255, 253, 253);
     padding: 1.5rem;
-    font-size: 30px;
+    font-size: 20px;
 
     
 }
