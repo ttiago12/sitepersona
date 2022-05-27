@@ -58,23 +58,23 @@ header {
     text-transform: uppercase;
     height: 100%;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     
     font-size: 1.8rem;
     
 }
 
 .menu-content .list-itens{
-    left: 1%;
+   
     display: flex;
     list-style: none;
-    gap: 20px;
-    position: absolute;
+    position: fixed;
     
 }
 
 .menu-content .list-itens a {
     
+    align-items: center;
     text-decoration: none;
     color: rgb(0, 0, 0);
     padding: 1.5rem;
