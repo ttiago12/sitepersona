@@ -30,7 +30,9 @@ body{
 	
 }
 
-
+.border{
+    border: solid black;
+}
 
 
 
@@ -46,7 +48,7 @@ body{
 
 header {
     
-      
+     
     
     
 }
@@ -121,6 +123,10 @@ h2{
 	font-family: 'Lato', sans-serif;
     font-weight: lighter;
    
+}
+
+.flex{
+    justify-content: space-between;
 }
 
 h3 {
